@@ -1,6 +1,5 @@
 streamlit
 transformers==4.44.2
-torch
+torch==2.3.0
 accelerate
 sentencepiece
-bitsandbytes

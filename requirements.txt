@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.30.0
 transformers==4.44.2
 torch==2.3.0
-accelerate
-sentencepiece
+accelerate==0.30.1
+sentencepiece==0.2.0
